@@ -1,6 +1,10 @@
 # EEG-Datasets
 A list of all public EEG-datasets. This list of EEG-resources is not exhaustive. If you find something new, or have explored any unfiltered link in depth, please update the repository.
 
+** SSVEP Benchmark**
+http://bci.med.tsinghua.edu.cn/download.html
+https://www.frontiersin.org/articles/10.3389/fnins.2020.00627/full
+
 * **Motor-Imagery**
   1. [Left/Right Hand MI](http://gigadb.org/dataset/100295):  Includes 52 subjects (38 validated subjects with discriminative features), results of physiological and psychological questionnares, EMG Datasets, location of 3D EEG electrodes, and EEGs for non-task related states
   2. [Motor Movement/Imagery Dataset](https://www.physionet.org/physiobank/database/eegmmidb/): Includes 109 volunteers, 64 electrodes, 2 baseline tasks (eye-open and eye-closed), motor movement, and motor imagery (both fists or both feet)
