@@ -1,5 +1,6 @@
 # EEG-Datasets
 A list of all public EEG-datasets. This list of EEG-resources is not exhaustive. If you find something new, or have explored any unfiltered link in depth, please update the repository.
+** https://labeling.ucsd.edu/tutorial/labels (How to read the totpographs)**
 
 ** SSVEP Benchmark**
 http://bci.med.tsinghua.edu.cn/download.html.
