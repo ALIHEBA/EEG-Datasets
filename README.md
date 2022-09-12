@@ -1,6 +1,7 @@
 # EEG-Datasets
 A list of all public EEG-datasets. This list of EEG-resources is not exhaustive. If you find something new, or have explored any unfiltered link in depth, please update the repository.
 
+https://www.youtube.com/watch?v=Llsfw9RkcIg&list=PLtGXgNsNHqPTgP9wyR8pmy2EuM2ZGHU5Z&index=14    (How to convert signal to image (Very useful series))
 
 ** https://labeling.ucsd.edu/tutorial/labels (How to read the totpographs)**
 
